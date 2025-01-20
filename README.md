@@ -1,0 +1,1 @@
+This repository contains a crawler designed to collect publicly available content from the PTT forums, including user-submitted articles. The crawler helps archive content that may be difficult to find or has been deleted from the public view.
